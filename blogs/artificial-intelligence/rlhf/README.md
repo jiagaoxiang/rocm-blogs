@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: 3 October 2024
+date: 4 November 2024
 author: Douglas Jia
 blog_title: Training Safer AI - Harnessing Reinforcement Learning from Human Feedback on AMD GPUs for Large Language Models
 tags: AI/ML, GenAI, PyTorch, LLM, Reinforcement Learning, Fine-Tuning
